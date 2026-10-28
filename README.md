@@ -1,10 +1,63 @@
 # Daniel Duran
 
-**Senior Full Stack & Cloud Engineer · AI Training & LLM Evaluation · IoT**
+**Senior Full Stack Engineer · Cloud Architecture · Applied AI & LLM Evaluation · IoT**
 
-Mechatronics Engineer with 5+ years of experience across software development, cloud infrastructure and automation. I have worked on banking, mobility, public-sector and IoT systems, combining backend engineering with web/mobile delivery and cloud operations.
+Mechatronics Engineer with 5+ years of experience building software and cloud solutions for banking, mobility, public-sector and IoT environments. My background includes enterprise engineering at **Stefanini LATAM** and **Valid S.A.**, product development at **BeatCar / GoGo**, and infrastructure validation for AI training at **Revelo Human Data**.
+
+I connect backend architecture, web/mobile applications and cloud operations: from NestJS services and Angular interfaces to Kubernetes deployments, automation and connected devices.
 
 [Portfolio — www.dan1el64.com](https://www.dan1el64.com/) · Spanish native / conversational English
+
+## Professional experience
+
+### Stefanini LATAM — Banco de Bogotá
+
+**Senior Fullstack Developer / Cloud Engineer**
+
+- Built enterprise backend services with **NestJS**, hexagonal architecture and SOLID principles, alongside **Angular 17** interfaces for banking workflows.
+- Developed asynchronous processing and validation of **CSV, XLSX and PDF** files using queues and distributed validation.
+- Worked with **GitLab CI/CD, Docker, Kubernetes / GKE, AWS S3 and Google Cloud Storage**, with observability through Prometheus, Grafana and Pino, and code quality checks with SonarQube.
+
+### BeatCar — GoGo App
+
+**Senior Fullstack Developer / AI & Cloud Engineer**
+
+- Developed web and mobile experiences with **React, Redux and React Native**, supported by NestJS APIs, MongoDB Atlas and role-based authentication.
+- Integrated push notifications through **Firebase Cloud Messaging**, predictive AI with **Vertex AI**, and containerized deployments on GKE with GitHub Actions.
+
+### Valid S.A. — Davivienda SuperApp
+
+**Fullstack Developer**
+
+- Contributed to visual and payment functionality for a banking application, using JavaScript/TypeScript and web/mobile technologies.
+- Supported production operations, upgrades, patches and performance analysis in collaboration with cross-functional teams. Worked across Angular, Java, Python, AWS and Jenkins.
+
+### Alcaldía de Tunja / UMCITI
+
+**Software & Cloud Architecture Engineer / Cloud Architect & Software Engineer**
+
+- Delivered cloud infrastructure and administrative workflow automation with **Oracle OCI, Python and Odoo**, including ERP modules for inventory, HR and finance.
+- Worked on Docker/Kubernetes deployments, GitLab CI/CD, TLS/OAuth2, backups and monitoring, and connected Raspberry Pi prototypes to cloud APIs.
+
+### Disersoft
+
+**Full Stack Development Engineer**
+
+- Worked on transport, fintech and production-management systems using **C#, Java, Angular, Python, Ionic and Cordova**.
+- Combined IoT backends and PID control with frontend delivery; supported Kubernetes/Jenkins pipelines and AWS/GCP environments.
+
+### Controles Inteligentes CI24
+
+**Development Engineer**
+
+- Built automation for parking and connected machines, including cloud integration, centralized payments and computer vision for plate/tag detection.
+- Worked with **Python, JavaScript, Angular, Raspberry Pi, OpenCV and Alexa** integrations.
+
+### Independent projects
+
+**Freelance Full Stack Developer**
+
+Home automation, real-time IoT alerts and inventory applications combining Java/Python services, Angular/Ionic interfaces, MQTT, AWS IoT and ERP integration.
 
 ## AI training and infrastructure validation
 
@@ -18,13 +71,6 @@ Contributed to the **Infrastructure as Code — Labeling** project, applying sof
 - Incorporated QA feedback and delivered approved tasks.
 
 **Focus:** code evaluation and validation for AI training, reproducible environments and technical quality. **Tools:** Terraform, AWS, Python, boto3, CloudFormation, Docker and LocalStack.
-
-## Selected engineering experience
-
-- **Enterprise banking:** NestJS services, hexagonal architecture, Angular interfaces, asynchronous file processing, CI/CD and observability. Experience at Stefanini LATAM and Valid S.A.
-- **Mobility:** web/mobile applications, NestJS APIs, notifications and predictive AI integrations with Vertex AI for BeatCar / GoGo.
-- **Public sector:** Oracle Cloud infrastructure, Odoo ERP integration and workflow automation for municipal technology projects in Tunja.
-- **IoT & automation:** connected devices, Raspberry Pi, MQTT, computer vision and control systems through Disersoft, CI24 and independent projects.
 
 ## Technical toolkit
 
@@ -54,7 +100,13 @@ The architecture labs use independent synthetic examples. The evaluation adapter
 <details>
 <summary>Sobre mí — Español</summary>
 
-Ingeniero mecatrónico con más de cinco años de experiencia en desarrollo full stack, cloud, automatización e IoT. He trabajado en banca, movilidad, sector público y sistemas conectados.
+Ingeniero mecatrónico con más de cinco años de experiencia en desarrollo full stack, cloud, automatización e IoT.
+
+- **Stefanini LATAM / Banco de Bogotá:** servicios NestJS con arquitectura hexagonal, Angular, procesamiento asíncrono de archivos, CI/CD y observabilidad.
+- **BeatCar / GoGo:** desarrollo web y móvil, APIs, notificaciones y funcionalidades de IA predictiva con Vertex AI.
+- **Valid S.A. / Davivienda SuperApp:** funcionalidades visuales y de pagos, soporte de producción y mejoras de rendimiento.
+- **Alcaldía de Tunja / UMCITI:** arquitectura OCI, automatización, integración Odoo y prototipos conectados.
+- **Disersoft y CI24:** software para transporte y fintech, automatización, visión artificial e IoT.
 
 En Revelo Human Data participé en tareas de infraestructura como código para entrenamiento de IA: soluciones Terraform, pruebas unitarias y de integración con Python/boto3, validación con Docker/LocalStack e incorporación de feedback de QA. Mi experiencia une desarrollo de software, evaluación técnica y calidad de entregables para IA.
 
