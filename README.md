@@ -1,38 +1,60 @@
 # Daniel Duran
 
-### Full-stack development · Cloud infrastructure · Automation
+**Senior Full Stack & Cloud Engineer · AI Training & LLM Evaluation · IoT**
 
-I build web applications, APIs and the infrastructure that connects them. My work spans Java, TypeScript and Python, with a focus on practical integrations, repeatable deployments and maintainable systems.
+Mechatronics Engineer with 5+ years of experience across software development, cloud infrastructure and automation. I have worked on banking, mobility, public-sector and IoT systems, combining backend engineering with web/mobile delivery and cloud operations.
 
-## What I work on
+[Explore my portfolio](https://www.dan1el64.com) · Spanish native / conversational English
 
-- **Backend & integrations:** APIs, business workflows, ERP integrations and multi-tenant applications.
-- **Web & mobile:** Angular applications and mobile development with Ionic.
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Infrastructure as Code and CI/CD.
-- **Automation & IoT:** Python workflows, Raspberry Pi, MQTT and telemetry.
+## AI training and infrastructure validation
+
+**Revelo Human Data · AI Training Contributor — Infrastructure as Code · 2026**
+
+Contributed to the **Infrastructure as Code — Labeling** project, applying software engineering and infrastructure validation to AI training tasks.
+
+- Implemented and refined Terraform solutions against assigned technical requirements with AI assistance.
+- Developed and corrected unit and integration tests with Python/boto3 to check resource configuration, behavior and security controls.
+- Validated infrastructure tasks through Docker/LocalStack workflows, including setup, deployment, testing and cleanup.
+- Incorporated QA feedback and delivered approved tasks.
+
+**Focus:** code evaluation and validation for AI training, reproducible environments and technical quality. **Tools:** Terraform, AWS, Python, boto3, CloudFormation, Docker and LocalStack.
+
+## Selected engineering experience
+
+- **Enterprise banking:** NestJS services, hexagonal architecture, Angular interfaces, asynchronous file processing, CI/CD and observability. Experience at Stefanini LATAM and Valid S.A.
+- **Mobility:** web/mobile applications, NestJS APIs, notifications and predictive AI integrations with Vertex AI for BeatCar / GoGo.
+- **Public sector:** Oracle Cloud infrastructure, Odoo ERP integration and workflow automation for municipal technology projects in Tunja.
+- **IoT & automation:** connected devices, Raspberry Pi, MQTT, computer vision and control systems through Disersoft, CI24 and independent projects.
 
 ## Technical toolkit
 
 | Area | Technologies |
 | --- | --- |
-| Languages | Java · TypeScript · Python |
-| Applications | Spring Boot · Angular · Node.js · NestJS · Ionic · Odoo |
-| Infrastructure | AWS · Docker · Kubernetes · Terraform · Jenkins |
-| Data & messaging | PostgreSQL · MySQL · MongoDB · Redis · MQTT |
+| Backend | NestJS · Spring Boot · Node.js · Java · Python · C# |
+| Web & mobile | Angular · React · React Native · TypeScript · Ionic |
+| Cloud & IaC | AWS · Google Cloud · Oracle OCI · Terraform · CloudFormation |
+| DevOps & quality | Docker · Kubernetes / GKE · GitLab CI/CD · GitHub Actions · Jenkins · SonarQube |
+| AI & validation | AI training tasks · LLM evaluation · Vertex AI · TensorFlow · OpenCV · boto3 · LocalStack |
+| Data & integration | PostgreSQL · MongoDB · MySQL · Redis · MQTT · Odoo |
 
-## Selected public projects
+## Public code to explore
 
-| Project | What you can explore |
+| Project | Engineering focus |
 | --- | --- |
 | [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java backend for inventory logic and persistence. |
-| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | TypeScript web interface that connects to the inventory backend. |
-| [Docker CI for Java](https://github.com/dan1el64/Docker-CI-Java) | A reference project for Java continuous integration with Docker. |
-| [TCP Sniffer](https://github.com/dan1el64/TCPSniffer) | An earlier C# project exploring TCP connections and network traffic. |
+| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | TypeScript web interface connected to the inventory backend. |
+| [Docker CI for Java](https://github.com/dan1el64/Docker-CI-Java) | Reference project for Java continuous integration with Docker. |
+| [TCP Sniffer](https://github.com/dan1el64/TCPSniffer) | Earlier C# project exploring TCP connections and network traffic. |
 
-## Engineering interests
+## Background
 
-Serverless applications, multi-tenant architecture, deployment automation, ERP integration and IoT monitoring. I document technical decisions and reusable workflows in Obsidian.
+**B.Eng. in Mechatronics — Universidad de Boyacá.** Additional training in cloud architecture, cybersecurity, data science and AI. Colfuturo scholarship recipient for English studies at the University of Central Florida. I document architecture decisions, project lessons and reusable workflows in Obsidian.
 
----
+<details>
+<summary>Sobre mí — Español</summary>
 
-**Español:** Desarrollo aplicaciones web, APIs y automatizaciones, conectando el software con su infraestructura. Mis áreas de trabajo incluyen desarrollo full stack, cloud, integración de sistemas e IoT.
+Ingeniero mecatrónico con más de cinco años de experiencia en desarrollo full stack, cloud, automatización e IoT. He trabajado en banca, movilidad, sector público y sistemas conectados.
+
+En Revelo Human Data participé en tareas de infraestructura como código para entrenamiento de IA: soluciones Terraform, pruebas unitarias y de integración con Python/boto3, validación con Docker/LocalStack e incorporación de feedback de QA. Mi experiencia une desarrollo de software, evaluación técnica y calidad de entregables para IA.
+
+</details>
