@@ -6,7 +6,7 @@ Mechatronics Engineer with 5+ years of experience building software and cloud so
 
 I connect backend architecture, web/mobile applications and cloud operations: from NestJS services and Angular interfaces to Kubernetes deployments, automation and connected devices.
 
-[Portfolio — www.dan1el64.com](https://www.dan1el64.com/) · Spanish native / conversational English
+[Portfolio](https://www.dan1el64.com/) · [Engineering case studies](https://www.dan1el64.com/portafolio) · [Certificates](https://www.dan1el64.com/certification) · Spanish native / conversational English
 
 ## AI training and infrastructure validation
 
@@ -72,6 +72,14 @@ Contributed to the **Infrastructure as Code — Labeling** project, applying sof
 
 Home automation, real-time IoT alerts and inventory applications combining Java/Python services, Angular/Ionic interfaces, MQTT, AWS IoT and ERP integration.
 
+## Engineering skills
+
+- **Architecture:** hexagonal architecture, ports and adapters, SOLID, modular services and explicit dependency boundaries.
+- **Full-stack delivery:** REST APIs, reactive forms, web/mobile interfaces, asynchronous file processing and integration workflows.
+- **Cloud operations:** infrastructure as code, container orchestration, CI/CD, observability and reproducible local environments.
+- **AI evaluation:** requirement-based code and infrastructure validation, unit/integration tests, rubric-driven review and incorporation of QA feedback.
+- **Quality:** API contract tests, validation and error handling, transactional consistency and idempotency in independent examples.
+
 ## Technical toolkit
 
 | Area | Technologies |
@@ -87,11 +95,30 @@ Home automation, real-time IoT alerts and inventory applications combining Java/
 
 | Project | Engineering focus |
 | --- | --- |
-| [Hexagonal Architecture Labs](https://github.com/dan1el64/hexagonal-architecture-labs) | Two runnable Python examples: transactional inventory reservations and offline response evaluation, with replaceable adapters, architecture tests and CI. |
-| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot 3.4 API with JPA, PostgreSQL, Swagger, exception handling and JUnit/Mockito service tests. |
-| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular 18 / TypeScript interface with Angular Material, reactive forms, HTTP services and Jasmine/Karma tests. |
+| [Hexagonal Architecture Labs](https://github.com/dan1el64/hexagonal-architecture-labs) | Two runnable Python examples: transactional inventory reservations and offline response evaluation, with replaceable adapters, architecture tests and CI. [Case study](https://www.dan1el64.com/portafolio#evaluacion-ia). |
+| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot API with validation, HTTP contract tests and a Docker launcher for the complete PostgreSQL/API/UI demo. [Case study](https://www.dan1el64.com/portafolio#inventario). |
+| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular / TypeScript interface with reactive forms, accessible actions, error/retry states and Jasmine/Karma tests. [Architecture](https://github.com/dan1el64/Inventario_frontend/blob/main/docs/architecture.md). |
 
 The architecture labs use independent synthetic examples. The evaluation adapter uses recorded fixtures, with explicit rubric limitations; it does not call a live LLM or publish client tasks.
+
+## Certifications and continuing education
+
+Selected certificates and training records from my portfolio. Course completion and challenge participation are listed as such; they are not vendor professional certifications.
+
+| Training / recognition | Focus | Evidence |
+| --- | --- | --- |
+| Cloud Architecture — Innovator level | Cloud architecture; MinTIC / Universidad Sergio Arboleda program | [Certificate](https://www.dan1el64.com/assets/CertificationsImg/Certificado_Arquitectura_Nube.jpg) |
+| Misión TIC — 800-hour program | Java, Spring Boot and web application development | [Certificate](https://www.dan1el64.com/assets/documents/Certificado_mintic800.pdf) |
+| Misión TIC — 200-hour program | Python programming and application development | [Certificate](https://www.dan1el64.com/assets/documents/Certificado_mintic200.pdf) |
+| Data Science & Artificial Intelligence | Python, data analysis and machine learning foundations | [Certificate](https://www.dan1el64.com/assets/CertificationsImg/Certificado_DataScienceIA.jpg) |
+| Cybersecurity | Security, networking and vulnerability assessment training | [Certificate](https://www.dan1el64.com/assets/documents/Certificado_Ciberseguridad.pdf) |
+| Machine Learning | Machine learning training | [Certificate](https://www.dan1el64.com/assets/documents/Certificado_Maching_learnning.pdf) |
+| Computer Vision | Computer vision training with Python / OpenCV | [Certificate](https://www.dan1el64.com/assets/documents/Certificado_vision_artificial.pdf) |
+| Web Development | Web programming training | [Certificate](https://www.dan1el64.com/assets/CertificationsImg/Certificado_ProgramacionWeb.jpg) |
+| AWS Challenge — participation | Practical cloud learning challenge | [Participation certificate](https://www.dan1el64.com/assets/documents/Certificado_RetoAWS.pdf) |
+| Colfuturo language scholarship | English studies at the University of Central Florida | [Scholarship record](https://www.dan1el64.com/assets/CertificationsImg/Certificado_Colfuturo_PI.jpg) |
+
+[Browse the full certificate collection](https://www.dan1el64.com/certification).
 
 ## Background
 
