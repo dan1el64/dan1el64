@@ -4,7 +4,7 @@
 
 Mechatronics Engineer with 5+ years of experience across banking, mobility and IoT. I build backend services and web/mobile applications, automate cloud infrastructure and validate code for AI training.
 
-[Portfolio](https://www.dan1el64.com/) · [Case studies](https://www.dan1el64.com/portafolio) · [Certificates](https://www.dan1el64.com/certification) · Spanish native / conversational English
+[Portfolio](https://www.dan1el64.com/) · [LinkedIn](https://www.linkedin.com/in/daniel-esteban-duran-huertas-3365501ab/) · [Case studies](https://www.dan1el64.com/portafolio) · [Certificates](https://www.dan1el64.com/certification) · Spanish native / conversational English
 
 ## Revelo Human Data — AI training & infrastructure validation
 
