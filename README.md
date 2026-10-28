@@ -37,14 +37,12 @@ Contributed to the **Infrastructure as Code — Labeling** project, applying sof
 | AI & validation | AI training tasks · LLM evaluation · Vertex AI · TensorFlow · OpenCV · boto3 · LocalStack |
 | Data & integration | PostgreSQL · MongoDB · MySQL · Redis · MQTT · Odoo |
 
-## Public code to explore
+## Featured public project — Inventory management
 
 | Project | Engineering focus |
 | --- | --- |
-| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java backend for inventory logic and persistence. |
-| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | TypeScript web interface connected to the inventory backend. |
-| [Docker CI for Java](https://github.com/dan1el64/Docker-CI-Java) | Reference project for Java continuous integration with Docker. |
-| [TCP Sniffer](https://github.com/dan1el64/TCPSniffer) | Earlier C# project exploring TCP connections and network traffic. |
+| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot 3.4 API with JPA, PostgreSQL, Swagger, exception handling and JUnit/Mockito service tests. |
+| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular 18 / TypeScript interface with Angular Material, reactive forms, HTTP services and Jasmine/Karma tests. |
 
 ## Background
 
