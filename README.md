@@ -1,27 +1,54 @@
 # Daniel Duran
 
-**Senior Full Stack & Cloud Engineer · AI Training & LLM Evaluation · IoT**
+**Full Stack & Cloud Engineer · AI Training & LLM Evaluation**
 
-Mechatronics Engineer with 5+ years of experience building software and cloud solutions for banking, mobility, public-sector and IoT environments. My background includes infrastructure validation for AI training at **Revelo Human Data**, enterprise engineering at **Stefanini LATAM** and **Valid S.A.**, and product development at **BeatCar / GoGo**.
+Mechatronics Engineer with 5+ years of experience across banking, mobility and IoT. I build backend services and web/mobile applications, automate cloud infrastructure and validate code for AI training.
 
-I connect backend architecture, web/mobile applications and cloud operations: from NestJS services and Angular interfaces to Kubernetes deployments, automation and connected devices.
+[Portfolio](https://www.dan1el64.com/) · [Case studies](https://www.dan1el64.com/portafolio) · [Certificates](https://www.dan1el64.com/certification) · Spanish native / conversational English
 
-[Portfolio](https://www.dan1el64.com/) · [Engineering case studies](https://www.dan1el64.com/portafolio) · [Certificates](https://www.dan1el64.com/certification) · Spanish native / conversational English
+## Revelo Human Data — AI training & infrastructure validation
 
-## AI training and infrastructure validation
+**AI Training Contributor · Infrastructure as Code · 2026**
 
-**Revelo Human Data · AI Training Contributor — Infrastructure as Code · 2026**
+- Implemented and refined Terraform solutions for infrastructure labeling tasks with AI assistance.
+- Developed unit/integration checks with Python/boto3 and validated environments using Docker/LocalStack.
+- Incorporated QA feedback and delivered approved tasks, connecting infrastructure engineering with technical evaluation for AI training.
 
-Contributed to the **Infrastructure as Code — Labeling** project, applying software engineering and infrastructure validation to AI training tasks.
+## Featured public projects
 
-- Implemented and refined Terraform solutions against assigned technical requirements with AI assistance.
-- Developed and corrected unit and integration tests with Python/boto3 to check resource configuration, behavior and security controls.
-- Validated infrastructure tasks through Docker/LocalStack workflows, including setup, deployment, testing and cleanup.
-- Incorporated QA feedback and delivered approved tasks.
+| Project | Engineering focus |
+| --- | --- |
+| [Hexagonal Architecture Labs](https://github.com/dan1el64/hexagonal-architecture-labs) | Two runnable Python examples: transactional inventory reservations and offline response evaluation, with replaceable adapters, architecture tests and CI. [Case study](https://www.dan1el64.com/portafolio#evaluacion-ia). |
+| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot API with validation, HTTP contract tests and a Docker launcher for the complete PostgreSQL/API/UI demo. [Case study](https://www.dan1el64.com/portafolio#inventario). |
+| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular / TypeScript interface with reactive forms, accessible actions, error/retry states and Jasmine/Karma tests. [Architecture](https://github.com/dan1el64/Inventario_frontend/blob/main/docs/architecture.md). |
 
-**Focus:** code evaluation and validation for AI training, reproducible environments and technical quality. **Tools:** Terraform, AWS, Python, boto3, CloudFormation, Docker and LocalStack.
+The architecture labs use independent synthetic examples. The evaluation adapter uses recorded fixtures, with explicit rubric limitations; it does not call a live LLM or publish client tasks.
+
+## Core skills
+
+**NestJS · Angular · TypeScript · Python · Terraform · Kubernetes · Docker**
+
+| Focus | What I bring |
+| --- | --- |
+| Architecture & delivery | Hexagonal architecture, SOLID, REST APIs and asynchronous processing |
+| Cloud & DevOps | AWS / Google Cloud, infrastructure as code, CI/CD and observability |
+| AI evaluation & quality | Requirement-based code validation, unit/integration tests and QA feedback |
+
+<details>
+<summary>Additional technologies</summary>
+
+Spring Boot / Java · C# · React / React Native · Ionic · Oracle OCI · CloudFormation · boto3 · LocalStack · GitLab CI/CD · GitHub Actions · Jenkins · SonarQube · Prometheus / Grafana · PostgreSQL · MongoDB · MySQL · Redis · MQTT · Odoo · Vertex AI · TensorFlow · OpenCV.
+
+</details>
 
 ## Professional experience
+
+**Stefanini LATAM / Banco de Bogotá:** senior full-stack and cloud engineering with NestJS, hexagonal architecture, Angular, asynchronous file processing and GKE.
+
+**Also:** BeatCar / GoGo · Valid S.A. / Davivienda · Alcaldía de Tunja / UMCITI · Disersoft · CI24 · independent projects.
+
+<details>
+<summary>Experience details — roles, contributions and technologies</summary>
 
 ### Stefanini LATAM — Banco de Bogotá
 
@@ -72,36 +99,14 @@ Contributed to the **Infrastructure as Code — Labeling** project, applying sof
 
 Home automation, real-time IoT alerts and inventory applications combining Java/Python services, Angular/Ionic interfaces, MQTT, AWS IoT and ERP integration.
 
-## Engineering skills
+</details>
 
-- **Architecture:** hexagonal architecture, ports and adapters, SOLID, modular services and explicit dependency boundaries.
-- **Full-stack delivery:** REST APIs, reactive forms, web/mobile interfaces, asynchronous file processing and integration workflows.
-- **Cloud operations:** infrastructure as code, container orchestration, CI/CD, observability and reproducible local environments.
-- **AI evaluation:** requirement-based code and infrastructure validation, unit/integration tests, rubric-driven review and incorporation of QA feedback.
-- **Quality:** API contract tests, validation and error handling, transactional consistency and idempotency in independent examples.
+## Education & certificates
 
-## Technical toolkit
+**B.Eng. in Mechatronics — Universidad de Boyacá.** Training in cloud architecture, data science/AI, cybersecurity and web development. Colfuturo scholarship for English studies at the University of Central Florida.
 
-| Area | Technologies |
-| --- | --- |
-| Backend | NestJS · Spring Boot · Node.js · Java · Python · C# |
-| Web & mobile | Angular · React · React Native · TypeScript · Ionic |
-| Cloud & IaC | AWS · Google Cloud · Oracle OCI · Terraform · CloudFormation |
-| DevOps & quality | Docker · Kubernetes / GKE · GitLab CI/CD · GitHub Actions · Jenkins · SonarQube |
-| AI & validation | AI training tasks · LLM evaluation · Vertex AI · TensorFlow · OpenCV · boto3 · LocalStack |
-| Data & integration | PostgreSQL · MongoDB · MySQL · Redis · MQTT · Odoo |
-
-## Featured public projects
-
-| Project | Engineering focus |
-| --- | --- |
-| [Hexagonal Architecture Labs](https://github.com/dan1el64/hexagonal-architecture-labs) | Two runnable Python examples: transactional inventory reservations and offline response evaluation, with replaceable adapters, architecture tests and CI. [Case study](https://www.dan1el64.com/portafolio#evaluacion-ia). |
-| [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot API with validation, HTTP contract tests and a Docker launcher for the complete PostgreSQL/API/UI demo. [Case study](https://www.dan1el64.com/portafolio#inventario). |
-| [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular / TypeScript interface with reactive forms, accessible actions, error/retry states and Jasmine/Karma tests. [Architecture](https://github.com/dan1el64/Inventario_frontend/blob/main/docs/architecture.md). |
-
-The architecture labs use independent synthetic examples. The evaluation adapter uses recorded fixtures, with explicit rubric limitations; it does not call a live LLM or publish client tasks.
-
-## Certifications and continuing education
+<details>
+<summary>10 certificates, training records and recognitions — view evidence</summary>
 
 Selected certificates and training records from my portfolio. Course completion and challenge participation are listed as such; they are not vendor professional certifications.
 
@@ -120,9 +125,7 @@ Selected certificates and training records from my portfolio. Course completion 
 
 [Browse the full certificate collection](https://www.dan1el64.com/certification).
 
-## Background
-
-**B.Eng. in Mechatronics — Universidad de Boyacá.** Additional training in cloud architecture, cybersecurity, data science and AI. Colfuturo scholarship recipient for English studies at the University of Central Florida. I document architecture decisions, project lessons and reusable workflows in Obsidian.
+</details>
 
 <details>
 <summary>Sobre mí — Español</summary>
