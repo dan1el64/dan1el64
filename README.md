@@ -1,12 +1,25 @@
 # Daniel Duran
 
-**Senior Full Stack Engineer · Cloud Architecture · Applied AI & LLM Evaluation · IoT**
+**Senior Full Stack & Cloud Engineer · AI Training & LLM Evaluation · IoT**
 
-Mechatronics Engineer with 5+ years of experience building software and cloud solutions for banking, mobility, public-sector and IoT environments. My background includes enterprise engineering at **Stefanini LATAM** and **Valid S.A.**, product development at **BeatCar / GoGo**, and infrastructure validation for AI training at **Revelo Human Data**.
+Mechatronics Engineer with 5+ years of experience building software and cloud solutions for banking, mobility, public-sector and IoT environments. My background includes infrastructure validation for AI training at **Revelo Human Data**, enterprise engineering at **Stefanini LATAM** and **Valid S.A.**, and product development at **BeatCar / GoGo**.
 
 I connect backend architecture, web/mobile applications and cloud operations: from NestJS services and Angular interfaces to Kubernetes deployments, automation and connected devices.
 
 [Portfolio — www.dan1el64.com](https://www.dan1el64.com/) · Spanish native / conversational English
+
+## AI training and infrastructure validation
+
+**Revelo Human Data · AI Training Contributor — Infrastructure as Code · 2026**
+
+Contributed to the **Infrastructure as Code — Labeling** project, applying software engineering and infrastructure validation to AI training tasks.
+
+- Implemented and refined Terraform solutions against assigned technical requirements with AI assistance.
+- Developed and corrected unit and integration tests with Python/boto3 to check resource configuration, behavior and security controls.
+- Validated infrastructure tasks through Docker/LocalStack workflows, including setup, deployment, testing and cleanup.
+- Incorporated QA feedback and delivered approved tasks.
+
+**Focus:** code evaluation and validation for AI training, reproducible environments and technical quality. **Tools:** Terraform, AWS, Python, boto3, CloudFormation, Docker and LocalStack.
 
 ## Professional experience
 
@@ -58,19 +71,6 @@ I connect backend architecture, web/mobile applications and cloud operations: fr
 **Freelance Full Stack Developer**
 
 Home automation, real-time IoT alerts and inventory applications combining Java/Python services, Angular/Ionic interfaces, MQTT, AWS IoT and ERP integration.
-
-## AI training and infrastructure validation
-
-**Revelo Human Data · AI Training Contributor — Infrastructure as Code · 2026**
-
-Contributed to the **Infrastructure as Code — Labeling** project, applying software engineering and infrastructure validation to AI training tasks.
-
-- Implemented and refined Terraform solutions against assigned technical requirements with AI assistance.
-- Developed and corrected unit and integration tests with Python/boto3 to check resource configuration, behavior and security controls.
-- Validated infrastructure tasks through Docker/LocalStack workflows, including setup, deployment, testing and cleanup.
-- Incorporated QA feedback and delivered approved tasks.
-
-**Focus:** code evaluation and validation for AI training, reproducible environments and technical quality. **Tools:** Terraform, AWS, Python, boto3, CloudFormation, Docker and LocalStack.
 
 ## Technical toolkit
 
