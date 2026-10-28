@@ -4,7 +4,7 @@
 
 Mechatronics Engineer with 5+ years of experience across software development, cloud infrastructure and automation. I have worked on banking, mobility, public-sector and IoT systems, combining backend engineering with web/mobile delivery and cloud operations.
 
-[Explore my portfolio](https://www.dan1el64.com) · Spanish native / conversational English
+[Portfolio — www.dan1el64.com](https://www.dan1el64.com/) · Spanish native / conversational English
 
 ## AI training and infrastructure validation
 
@@ -37,12 +37,15 @@ Contributed to the **Infrastructure as Code — Labeling** project, applying sof
 | AI & validation | AI training tasks · LLM evaluation · Vertex AI · TensorFlow · OpenCV · boto3 · LocalStack |
 | Data & integration | PostgreSQL · MongoDB · MySQL · Redis · MQTT · Odoo |
 
-## Featured public project — Inventory management
+## Featured public projects
 
 | Project | Engineering focus |
 | --- | --- |
+| [Hexagonal Architecture Labs](https://github.com/dan1el64/hexagonal-architecture-labs) | Two runnable Python examples: transactional inventory reservations and offline response evaluation, with replaceable adapters, architecture tests and CI. |
 | [Inventory backend](https://github.com/dan1el64/Inventario_backend) | Java 17 / Spring Boot 3.4 API with JPA, PostgreSQL, Swagger, exception handling and JUnit/Mockito service tests. |
 | [Inventory frontend](https://github.com/dan1el64/Inventario_frontend) | Angular 18 / TypeScript interface with Angular Material, reactive forms, HTTP services and Jasmine/Karma tests. |
+
+The architecture labs use independent synthetic examples. The evaluation adapter uses recorded fixtures, with explicit rubric limitations; it does not call a live LLM or publish client tasks.
 
 ## Background
 
